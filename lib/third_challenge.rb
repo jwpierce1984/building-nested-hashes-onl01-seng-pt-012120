@@ -1,13 +1,13 @@
 def first_challenge
    epic_tragedy = {
      Montague:{
-       patriarch:{}
+       patriarch:{},
        matriarch:{},
        hero:{},
        hero_friends:[]
      },
      Capulet:{
-       patriarch:{}
+       patriarch:{},
        matriarch:{},
        heroine:{},
        heroine_friends:[]
